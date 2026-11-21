@@ -1,0 +1,10 @@
+# Rime dictionary
+# encoding: utf-8
+---
+name: wubi86.ci.foreign
+version: "0.1.0"
+sort: original
+columns:
+  - text
+  - code
+...

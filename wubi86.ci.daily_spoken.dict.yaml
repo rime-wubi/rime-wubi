@@ -1,0 +1,10 @@
+# Rime dictionary
+# encoding: utf-8
+---
+name: wubi86.ci.daily_spoken
+version: "0.1.0"
+sort: original
+columns:
+  - text
+  - code
+...

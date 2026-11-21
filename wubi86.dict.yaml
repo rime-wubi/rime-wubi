@@ -1,0 +1,45 @@
+# Rime dictionary
+# encoding: utf-8
+---
+name: wubi86
+version: "0.1.0"
+sort: original
+columns:
+  - text
+  - code
+import_tables:
+  - wubi86.zi
+  - wubi86.ci.daily_spoken
+  - wubi86.ci.life
+  - wubi86.ci.idioms
+  - wubi86.ci.newwords
+  - wubi86.ci.dialects
+  - wubi86.ci.games
+  - wubi86.ci.anime
+  - wubi86.ci.entertainment
+  - wubi86.ci.politics
+  - wubi86.ci.law
+  - wubi86.ci.foreign
+  - wubi86.ci.military
+  - wubi86.ci.society
+  - wubi86.ci.disaster
+  - wubi86.ci.economy
+  - wubi86.ci.finance
+  - wubi86.ci.construction
+  - wubi86.ci.agriculture
+  - wubi86.ci.industry
+  - wubi86.ci.energy
+  - wubi86.ci.electronics
+  - wubi86.ci.transport
+  - wubi86.ci.commerce
+  - wubi86.ci.services
+  - wubi86.ci.environment
+  - wubi86.ci.education
+  - wubi86.ci.science
+  - wubi86.ci.culture
+  - wubi86.ci.literature
+  - wubi86.ci.media
+  - wubi86.ci.medicine
+  - wubi86.ci.sports
+  - wubi86.ci.places
+...
